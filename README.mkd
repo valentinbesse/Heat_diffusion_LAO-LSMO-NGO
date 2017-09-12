@@ -1,0 +1,25 @@
+# Heat_Diffusion_LAO-LSMO-NGO
+
+Comsol code to solve the 2D heat diffusion in a sample composed by three layers : LAO, LSMO and NGO.
+
+## How ?
+
+This code need to be run by COMSOL 5.0.1.234. If you can propose me an equivalent open-source software I will be interested.
+
+## Licence
+
+The whole project is released under the WTFPL:
+
+			DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                   Version 2, December 2004
+
+	Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+	Everyone is permitted to copy and distribute verbatim or modified
+	copies of this license document, and changing it is allowed as long
+	as the name is changed.
+
+			DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+	TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+	0. You just DO WHAT THE FUCK YOU WANT TO.
